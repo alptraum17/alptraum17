@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @alptraum17
 - 👀 I’m interested in MapleStory
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on myself
-- 📫 How to reach me to the moon
+- 💞️ I have NothingToSay
+- 📫 I wanna play Dota2
 
 <!---
 alptraum17/alptraum17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
